@@ -28,7 +28,10 @@
         <br>
         <input type="checkbox" id="symbols" name="symbols" value="1">
         <label for="symbols">Includi simboli</label>
-        <br><br>
+        <br>
+        <input type="checkbox" id="egualChar" name="egualChar" value="1">
+        <label for="egualChar">Evita caratteri uguali</label>
+        <br>
         <input type="submit" value="Genera password">
     </form>
 

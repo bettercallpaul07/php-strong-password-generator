@@ -1,5 +1,7 @@
 <?php
 
+session_start();        
+
 //Inizializzo tutte le variabili
 $char = 'abcdefghijklmnopqrstuvwxyz';
 $myPass = '';
